@@ -1,0 +1,2 @@
+This project was done by me for the purpose of my university course
+"Internet Programming". Please don't misuse of it.

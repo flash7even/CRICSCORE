@@ -1,0 +1,380 @@
+
+h1{
+	color: #000066;
+	text-align:center;
+}
+h2.Result_header{
+	color: #000066;
+	text-align:center;
+}
+h3.first_innings_bat{
+	color: #000066;
+	text-align:center;
+}
+
+h3.home_title{
+	color: #000066;
+	text-align:center;
+}
+
+div.homepic{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	line-height:30px;
+	width:1400px;
+	float:left;
+
+}
+
+div.homepic_left{
+	text-align:center;
+	line-height:30px;
+	width:880px;
+	float:left;
+}
+
+div.homepic_item{
+	text-align:center;
+	line-height:30px;
+	width:880px;
+	float:left;
+	padding:5px;
+	border: 5px;
+	border-color: #D6F5F5;
+}
+
+div.homepic_score{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	line-height:30px;
+	width:455px;
+	float:left;
+	border: 5px;
+	border-color: #D6F5F5;
+}
+
+div.live_score{
+	text-align:center;
+	width:455px;
+	padding:5px;
+	display: block;
+	clear: both;
+	border: 5px solid;
+	border-color: #F0F3F6;
+}
+div.live_fixture{
+	text-align:center;
+	width:455px;
+	padding:5px;
+	border: 5px solid;
+	border-color: #F0F3F6;
+}
+div.container-fluid{
+	background-color:#F8F8FC;
+	font-size: 15px;
+	color: #000029;
+	font-style: oblique;
+}
+
+div.focus{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	line-height:30px;
+	width:1420px;
+	float:left;
+}
+
+div.news{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:450px;
+	float:left;
+	padding:2px;
+	background-color:#E6EBF0;
+}
+
+div.editorials{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:460px;
+	float:left;
+	padding:2px;
+	background-color:#E6EBF0;
+}
+
+div.list-group{
+	border: 4px solid;
+	text-align:center;
+	float:left;
+	border: 5px solid;
+	background-color:#E6EBF0;
+	border-color: #F8F8FC
+}
+div.list-group1{
+	border: 4px solid;
+	width:400px;
+	text-align:center;
+	float:left;
+	border: 5px solid;
+	background-color:#E6EBF0;
+	border-color: #F8F8FC
+}
+
+
+div.mostly_viewed{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:435px;
+	float:left;
+	padding:2px;
+	background-color:#E6EBF0;
+}
+
+div.entertainment{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	line-height:30px;
+	width:1400px;
+	float:left;
+	padding:5px;
+}
+
+div.photo{
+	text-align:center;
+	width:700px;
+	float:left;
+}
+
+div.photo1{
+	text-align:center;
+	float:left;
+	padding:5px;
+	border: 5px solid;
+	background-color:#E6EBF0;
+	border-color: #F8F8FC;
+}
+
+div.social{
+	font-size: 20px;
+	width:650px;
+	float:left;
+}
+
+div.poll{
+	width:630px;
+	float:left;
+	text-align: left;
+	padding:30px;
+	border: 20px solid;
+	background-color:#FBF5FD;
+	border-color: #F8F8FC;
+}
+
+div.facebook{
+	width:630px;
+	float:left;
+	padding:5px;
+	border: 5px solid;
+	background-color:#E6EBF0;
+	border-color: #F8F8FC;
+}
+
+div.twitter{
+	text-align:center;
+	width:630px;
+	float:left;
+	padding:5px;
+	border: 5px solid;
+	background-color:#E6EBF0;
+	border-color: #F8F8FC;
+}
+
+
+
+
+
+
+
+
+div.All_fixture{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+
+div.fixture_list{
+	border: 3px solid;
+	border-color: #F8F8FC;
+}
+
+div.single_list_fixture{
+	border: 4px solid;
+	border-color: #F8F8FC;
+}
+div.All_result{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+
+div.result_list{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+div.single_list{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+
+
+
+
+#batsman_score_table {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#batsman_score_table td, #batsman_score th {
+    font-size: 1em;
+    border: 1px solid #98bf21;
+    padding: 3px 7px 2px 7px;
+}
+
+#batsman_score_table th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #E0FFC2;
+    color: #00004C;
+}
+
+#batsman_score_total tr.score_total td {
+    color: #00005C;
+    background-color: #CCFFEB;
+}
+
+#batsman_score_table tr.alt td {
+    color: #000000;
+    background-color: #EAF2D3;
+}
+
+div.first_innings_head{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+
+div.first_innings_bat{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+div.first_innings_bowl{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+div.second_innings_bat{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+div.second_innings_bowl{
+	border: 10px solid;
+	border-color: #F8F8FC;
+}
+
+ul li{
+	list-style: none;
+	text-align: left;
+}
+
+div.editorial_home_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:1400px;
+	float:left;
+}
+
+div.editorial_top_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:1400px;
+	padding:5px;
+	border: 5px solid;
+	background-color:#C2E0FF;
+	border-color: #FFFFFF;
+}
+div.editorial_left_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:500px;
+	float:left;
+	padding:5px;
+}
+
+
+div.editorial_right_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:800px;
+	float:left;
+}
+div.editorial_writing_test{
+	text-decoration: blue;
+	font-size: 20px;
+	width:800px;
+	float:left;
+}
+div.writing_header_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:800px;
+	float:left;
+	padding:5px;
+	border: 5px solid;
+	background-color:#EBF7EB;
+	border-color: #F8F8FC;
+}
+
+div.writing_document_test{
+	text-decoration: blue;
+	font-size: 20px;
+	width:800px;
+	float:left;
+	padding:5px;
+	border: 5px solid;
+	border-color: #F8F8FC;
+}
+div.editorial_comment_test{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:center;
+	width:800px;
+	float:left;
+	padding:5px;
+}
+
+div.single_comment{
+	text-decoration: blue;
+	font-size: 20px;
+	text-align:left;
+	width:800px;
+	float:left;
+	padding:2px;
+	border: 2px solid;
+	background-color:#EBF7EB;
+	border-color: #FFFFFF;
+}
+
+
+
+
